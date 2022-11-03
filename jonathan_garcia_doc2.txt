@@ -1,2 +1,3 @@
 fichero 2
 creamos una linea en el segundo archivo tambien
+creamos una linea mas
